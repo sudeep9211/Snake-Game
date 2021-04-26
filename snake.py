@@ -1,5 +1,3 @@
-# Snake Game by Mahesh Sawant
-
 import turtle
 import time
 import random
@@ -12,8 +10,8 @@ high_score=0
 
 # set up the screen
 wn=turtle.Screen()
-wn.title("Snake Game by Mahesh Sawant")
-wn.bgcolor("green")
+wn.title("Snake Game")
+wn.bgcolor("blue")
 wn.setup(width=600, height=600)
 wn.tracer(0)
 
